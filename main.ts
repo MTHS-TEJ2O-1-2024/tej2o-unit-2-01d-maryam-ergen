@@ -2,7 +2,7 @@
  *
  * Created by: Maryam Ergen
  * Created on: Sep 2024
- * This program displays Hello, World!
+ * This program displays Hello, Maryam!
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Maryam!')
